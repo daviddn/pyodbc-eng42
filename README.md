@@ -8,3 +8,15 @@ We will look into:
 - Querying the db
 - Using While loops for efficient data queries
 - Transactions
+
+## connection
+Establishing a connection with a database.
+
+## .cursor()
+Allows us to execute read only queries on the database.
+
+## cursor().execute()
+Executes desired SQL argument.
+
+## .fetchall() vs .fetchone()
+Fetch rows from cursor, or just one.

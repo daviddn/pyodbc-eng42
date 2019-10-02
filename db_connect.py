@@ -2,7 +2,7 @@ import pyodbc
 
 # In this file we'll make our connection
 
-# Parameters/variables for connetion
+# Parameters/variables for connection
 server = 'localhost, 1433'
 database = 'Northwind'
 username = 'SA'
@@ -58,4 +58,4 @@ while True:
         break
     print(record.UnitPrice)
 
-# 
+#
